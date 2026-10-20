@@ -1,23 +1,24 @@
 # Daily Stand-up
 
+> Record basis: Completed from the [matching meeting script](../../scripts/2026-10-08-daily-standup-script.md). The source is a rehearsal dialogue. Updates, decisions and actions below summarize that dialogue; they do not certify a held meeting, executed tests or actual acceptance.
+
 Date: 2026-10-08
 
-Time: TO BE CONFIRMED (Asia/Kabul; after planning on first day, before review on last day)
+Time: Clock time is not specified in the source script (Asia/Kabul; daily stand-up).
 
 Meeting Type: Daily Stand-up
 
 Facilitator: Ahmad Khalid Safi
 
 Expected Participants:
+
 - Ahmad Khalid Safi
 - Bahara Noorzai
 - Sahar Haidary
 
 ## Recording Link
 
-TO BE ADDED AFTER MEETING:
-
-[Meeting Recording]()
+No recording URL is supplied by the source script; this record has no linked recording.
 
 ## Agenda
 
@@ -35,50 +36,60 @@ Expected focus for this date (PLANNED): Check authorization and invalid-input fa
 
 [Sprint tasks](../../06-sprints/sprint-01/tasks.md)
 
-## Actual Attendance
+## Participation in the Script
 
-TO BE COMPLETED AFTER MEETING
+- Ahmad Khalid Safi (Scrum Master and facilitator)
+- Bahara Noorzai (Product Owner)
+- Sahar Haidary (Developer)
+
+All three members have speaking parts in the source script. This records scripted participation; actual attendance is not established by that source.
 
 ## Ahmad Khalid Safi Update
 
 Yesterday / Since Last Meeting:
-TO BE COMPLETED AFTER MEETING
+Previous scripted focus ([prior stand-up](./2026-10-07-daily-standup.md)): Link observations to individual stories, retain test commands with their results and check meeting-record links. Completion of that planned work is not reported in the current script.
 
 Today / Next:
-TO BE COMPLETED AFTER MEETING
+Record access-control priorities and follow up on any check prevented by missing accounts or test data.
 
 Blockers:
-TO BE COMPLETED AFTER MEETING
+No specific personal blocker is reported in the dialogue. Shared dependencies and risks are recorded under Decisions.
 
 ## Bahara Noorzai Update
 
 Yesterday / Since Last Meeting:
-TO BE COMPLETED AFTER MEETING
+Previous scripted focus ([prior stand-up](./2026-10-07-daily-standup.md)): Clarify empty-search feedback, customer/worker registration and appropriate account screens; keep any wording changes in the user stories. Completion of that planned work is not reported in the current script.
 
 Today / Next:
-TO BE COMPLETED AFTER MEETING
+Prioritize unauthorized changes over visual issues and verify that suspended workers are excluded from public discovery.
 
 Blockers:
-TO BE COMPLETED AFTER MEETING
+No specific personal blocker is reported in the dialogue. Shared dependencies and risks are recorded under Decisions.
 
 ## Sahar Haidary Update
 
 Yesterday / Since Last Meeting:
-TO BE COMPLETED AFTER MEETING
+Previous scripted focus ([prior stand-up](./2026-10-07-daily-standup.md)): Check combined job filters and pagination, public worker skills/availability/ratings, private-field exclusion and normal customer/worker registration before rejected-input checks. Completion of that planned work is not reported in the current script.
 
 Today / Next:
-TO BE COMPLETED AFTER MEETING
+Check administrator-role injection, other-user profile edits, suspended accounts, duplicates, invalid credentials, invalid trades and invalid photos; record reproducible unexpected results.
 
 Blockers:
-TO BE COMPLETED AFTER MEETING
+No specific personal blocker is reported in the dialogue. Shared dependencies and risks are recorded under Decisions.
 
 ## Decisions
 
-TO BE COMPLETED AFTER MEETING
+Prioritize access control. Each finding needs a story ID, actor, request, expected result and observed result. Missing setup is a possible dependency, not a confirmed defect.
 
 ## Action Items
 
-TO BE COMPLETED AFTER MEETING
+Actions are assigned in the script; execution is not reported there. Checkpoints follow the daily meeting sequence.
+
+| Owner | Action | Planned checkpoint |
+| --- | --- | --- |
+| Ahmad Khalid Safi | Record access-control priorities and follow up on any check prevented by missing accounts or test data. | 2026-10-08; follow-up at 2026-10-09 stand-up |
+| Bahara Noorzai | Prioritize unauthorized changes over visual issues and verify that suspended workers are excluded from public discovery. | 2026-10-08; follow-up at 2026-10-09 stand-up |
+| Sahar Haidary | Check administrator-role injection, other-user profile edits, suspended accounts, duplicates, invalid credentials, invalid trades and invalid photos; record reproducible unexpected results. | 2026-10-08; follow-up at 2026-10-09 stand-up |
 
 ## Minutes Prepared By
 

@@ -1,23 +1,24 @@
 # Daily Stand-up
 
+> Record basis: Completed from the [matching meeting script](../../scripts/2026-10-06-daily-standup-script.md). The source is a rehearsal dialogue. Updates, decisions and actions below summarize that dialogue; they do not certify a held meeting, executed tests or actual acceptance.
+
 Date: 2026-10-06
 
-Time: TO BE CONFIRMED (Asia/Kabul; after planning on first day, before review on last day)
+Time: Clock time is not specified in the source script (Asia/Kabul; after Sprint Planning).
 
 Meeting Type: Daily Stand-up
 
 Facilitator: Ahmad Khalid Safi
 
 Expected Participants:
+
 - Ahmad Khalid Safi
 - Bahara Noorzai
 - Sahar Haidary
 
 ## Recording Link
 
-TO BE ADDED AFTER MEETING:
-
-[Meeting Recording]()
+No recording URL is supplied by the source script; this record has no linked recording.
 
 ## Agenda
 
@@ -35,50 +36,60 @@ Expected focus for this date (PLANNED): Confirm criteria, baseline and task avai
 
 [Sprint tasks](../../06-sprints/sprint-01/tasks.md)
 
-## Actual Attendance
+## Participation in the Script
 
-TO BE COMPLETED AFTER MEETING
+- Ahmad Khalid Safi (Scrum Master and facilitator)
+- Bahara Noorzai (Product Owner)
+- Sahar Haidary (Developer)
+
+All three members have speaking parts in the source script. This records scripted participation; actual attendance is not established by that source.
 
 ## Ahmad Khalid Safi Update
 
 Yesterday / Since Last Meeting:
-TO BE COMPLETED AFTER MEETING
+Planning assigned schedule, meeting records, story traceability and burndown to Ahmad. This is the first stand-up, so there is no previous daily progress report.
 
 Today / Next:
-TO BE COMPLETED AFTER MEETING
+Prepare meeting records and link tasks to US-01 through US-05; organize the checks by the next stand-up and record availability questions.
 
 Blockers:
-TO BE COMPLETED AFTER MEETING
+No specific personal blocker is reported in the dialogue. Shared dependencies and risks are recorded under Decisions.
 
 ## Bahara Noorzai Update
 
 Yesterday / Since Last Meeting:
-TO BE COMPLETED AFTER MEETING
+Planning identified discovery and account priorities, with acceptance criteria and the Product Backlog assigned to Bahara. This is the first stand-up, so there is no previous daily progress report.
 
 Today / Next:
-TO BE COMPLETED AFTER MEETING
+Review acceptance criteria and order discovery/account work in the Product Backlog; distinguish customer and worker journeys and reject public administrator registration.
 
 Blockers:
-TO BE COMPLETED AFTER MEETING
+No specific personal blocker is reported in the dialogue. Shared dependencies and risks are recorded under Decisions.
 
 ## Sahar Haidary Update
 
 Yesterday / Since Last Meeting:
-TO BE COMPLETED AFTER MEETING
+Planning identified the existing marketplace and related tests as the verification baseline, with technical evidence and UML comparison assigned to Sahar. This is the first stand-up, so there is no previous daily progress report.
 
 Today / Next:
-TO BE COMPLETED AFTER MEETING
+Map browsing, registration, login and profile-editing requirements to existing tests; compare account roles with the use-case diagram.
 
 Blockers:
-TO BE COMPLETED AFTER MEETING
+No specific personal blocker is reported in the dialogue. Shared dependencies and risks are recorded under Decisions.
 
 ## Decisions
 
-TO BE COMPLETED AFTER MEETING
+Use the existing implementation as the baseline. The 15-point proposal remains provisional because availability is not established.
 
 ## Action Items
 
-TO BE COMPLETED AFTER MEETING
+Actions are assigned in the script; execution is not reported there. Checkpoints follow the daily meeting sequence.
+
+| Owner | Action | Planned checkpoint |
+| --- | --- | --- |
+| Ahmad Khalid Safi | Prepare meeting records and link tasks to US-01 through US-05; organize the checks by the next stand-up and record availability questions. | 2026-10-06; follow-up at 2026-10-07 stand-up |
+| Bahara Noorzai | Review acceptance criteria and order discovery/account work in the Product Backlog; distinguish customer and worker journeys and reject public administrator registration. | 2026-10-06; follow-up at 2026-10-07 stand-up |
+| Sahar Haidary | Map browsing, registration, login and profile-editing requirements to existing tests; compare account roles with the use-case diagram. | 2026-10-06; follow-up at 2026-10-07 stand-up |
 
 ## Minutes Prepared By
 
