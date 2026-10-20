@@ -1,16 +1,16 @@
 # Sprint 03 Planning
 
-> Record basis: Completed from the [matching meeting script](../../scripts/2026-10-18-sprint-planning-script.md). The source is a rehearsal dialogue. Updates, decisions and actions below summarize that dialogue; they do not certify a held meeting, executed tests or actual acceptance.
+> Record basis: Completed from the [matching meeting meeting](../../meetings/2026-10-18-sprint-planning-meeting.md). The source is a rehearsal dialogue. Updates, decisions and actions below summarize that dialogue; they do not certify a held meeting, executed tests or actual acceptance.
 
 Date: 2026-10-18
 
-Time: Clock time is not specified in the source script (Asia/Kabul; before first stand-up).
+Time: Clock time is not specified in the source meeting (Asia/Kabul; before first stand-up).
 
 Facilitator: Ahmad Khalid Safi
 
 Expected Participants: Ahmad Khalid Safi, Bahara Noorzai, Sahar Haidary
 
-Recording Link: No recording URL is supplied by the source script; this record has no linked recording.
+Recording Link: No recording URL is supplied by the source meeting; this record has no linked recording.
 
 ## PLANNED Sprint Goal
 
@@ -28,7 +28,7 @@ Verify private communication, completion, reviews and trust controls with securi
 
 ## Expected Capacity
 
-One formal Developer; individual available hours are not quantified in the source script. Proposed 15 points for assignment verification/refinement. The script leaves capacity and the point commitment provisional; points are not hours.
+One formal Developer; individual available hours are not quantified in the source meeting. Proposed 15 points for assignment verification/refinement. The meeting leaves capacity and the point commitment provisional; points are not hours.
 
 ## Planned Tasks
 
@@ -65,21 +65,13 @@ Documentation-only tasks require source accuracy, readable Markdown, correct lin
 4. Select feasible scope and task ownership.
 5. Confirm Definition of Done and evidence responsibilities.
 
-## Participation in the Script
-
-- Ahmad Khalid Safi (Scrum Master and facilitator)
-- Bahara Noorzai (Product Owner)
-- Sahar Haidary (Developer)
-
-All three members have speaking parts in the source script. This records scripted participation; actual attendance is not established by that source.
-
 ## Changes made during meeting
 
-The script retains messaging, completion, reviews, reports and blocking. It clarifies the dependency on an assigned job with an accepted application, customer-only completion, reviews by both participants after completion, and separate permissions for reading history and sending messages. Estimates remain five, two, three, three and two points respectively. Unresolved hiring work is a visible dependency, not an implicitly completed prerequisite.
+The meeting retains messaging, completion, reviews, reports and blocking. It clarifies the dependency on an assigned job with an accepted application, customer-only completion, reviews by both participants after completion, and separate permissions for reading history and sending messages. Estimates remain five, two, three, three and two points respectively. Unresolved hiring work is a visible dependency, not an implicitly completed prerequisite.
 
 ## Final commitment
 
-The scripted planning outcome is to begin verification of US-11 through US-15 within the stated Sprint 3 goal. The 15-point total remains a proposal: the script does not establish individual availability or a final capacity-backed commitment. Bahara owns criteria and priorities, Sahar owns the Sprint Backlog and technical work, and Ahmad owns process records and progress tracking. Acceptance remains a separate evidence-based review decision on 2026-10-23.
+The meeting planning outcome is to begin verification of US-11 through US-15 within the stated Sprint 3 goal. The 15-point total remains a proposal: the meeting does not establish individual availability or a final capacity-backed commitment. Bahara owns criteria and priorities, Sahar owns the Sprint Backlog and technical work, and Ahmad owns process records and progress tracking. Acceptance remains a separate evidence-based review decision on 2026-10-23.
 
 ## Meeting decisions
 
@@ -98,6 +90,6 @@ The scripted planning outcome is to begin verification of US-11 through US-15 wi
 | Sahar Haidary; Bahara Noorzai; Ahmad Khalid Safi | Technical diagram comparison, business-rule review and traceability check, respectively. | 2026-10-22 |
 | Bahara Noorzai; Sahar Haidary; Ahmad Khalid Safi | Acceptance decisions, technical walkthrough and minutes, respectively. | 2026-10-23 |
 
-## Meeting Summary from the Script
+## Meeting Summary from the meeting
 
 Ahmad introduced the 15-point proposal and October 23 review. Sahar identified hiring as the prerequisite for messaging and completion. Bahara clarified participant privacy, customer-only completion and counterpart reviews. The team separated blocking from history access, kept moderation dependencies visible and assigned diagram comparison to October 22. No availability figures or final point commitment are recorded in the dialogue.

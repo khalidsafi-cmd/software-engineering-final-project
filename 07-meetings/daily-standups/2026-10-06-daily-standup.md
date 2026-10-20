@@ -18,7 +18,7 @@ Expected Participants:
 
 ## Recording Link
 
-No recording URL is supplied by the source script; this record has no linked recording.
+#https
 
 ## Agenda
 

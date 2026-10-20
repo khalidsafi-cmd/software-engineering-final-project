@@ -48,14 +48,6 @@ Inspect verified work against the goal: Verify requirements, architecture, publi
 - **Gaps preventing acceptance:** Dated, story-specific verification results are absent; the acceptance table identifies the checks required.
 - **Priority for remaining work:** Compare remaining discovery/account work with Sprint 2 job-workflow priorities and record the reason for carry-over in the Product Backlog.
 
-## Participation in the Script
-
-- Ahmad Khalid Safi (Scrum Master and facilitator)
-- Bahara Noorzai (Product Owner)
-- Sahar Haidary (Developer)
-
-All three members have speaking parts in the source script. This records scripted participation; actual attendance is not established by that source.
-
 ## Completed Stories and Evidence Status
 
 No story is established as verified and complete by the source script. US-01 through US-05 are covered in the technical walkthrough, but implementation and test presence do not supply dated execution evidence or satisfy acceptance. This is an explicit outcome for all five stories, not an unfilled completion field.

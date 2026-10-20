@@ -1,14 +1,16 @@
 # Sprint 01 Planning
 
+> Record basis: Completed from the [matching meeting meeting](../../meetings/2026-10-06-sprint-planning-meeting.md). The source is a rehearsal dialogue. Updates, decisions and actions below summarize that dialogue; they do not certify a held meeting, executed tests or actual acceptance.
+
 Date: 2026-10-06
 
-Time: TO BE CONFIRMED (Asia/Kabul; before first stand-up)
+Time: Clock time is not specified in the source meeting (Asia/Kabul; before first stand-up).
 
 Facilitator: Ahmad Khalid Safi
 
 Expected Participants: Ahmad Khalid Safi, Bahara Noorzai, Sahar Haidary
 
-Recording Link: TO BE ADDED AFTER MEETING
+Recording Link: No recording URL is supplied by the source meeting; this record has no linked recording.
 
 ## PLANNED Sprint Goal
 
@@ -26,7 +28,7 @@ Verify requirements, architecture, public discovery, authentication and worker p
 
 ## Expected Capacity
 
-One formal Developer; each member’s available hours: TO BE CONFIRMED DURING PLANNING. Proposed 15 points for assignment verification/refinement. Do not equate points to hours or claim a final commitment.
+One formal Developer; individual available hours are not quantified in the source meeting. Proposed 15 points for assignment verification/refinement. The meeting leaves capacity and the point commitment provisional; points are not hours.
 
 ## Planned Tasks
 
@@ -41,15 +43,17 @@ One formal Developer; each member’s available hours: TO BE CONFIRMED DURING PL
 
 ## Definition of Done
 
-- [ ] Story acceptance criteria satisfied and linked evidence recorded.
-- [ ] Applicable implementation/fix completed; documentation-only work is accurate and complete.
-- [ ] Work committed and pushed to GitHub with meaningful messages.
-- [ ] Peer review performed where practical; record reviewer or reason unavailable.
-- [ ] Relevant automated tests pass for behavior changes; record actual command/date/result.
-- [ ] Applicable manual workflow and important failure paths verified.
-- [ ] Requirements, diagrams and documentation updated with working links.
-- [ ] No known blocking defects; unresolved issues recorded honestly.
-- [ ] Bahara accepts the story at the real Sprint Review.
+These are completion criteria agreed for the work, not a report that the criteria have been met.
+
+- Story acceptance criteria satisfied and linked evidence recorded.
+- Applicable implementation/fix completed; documentation-only work is accurate and complete.
+- Work committed and pushed to GitHub with meaningful messages.
+- Peer review performed where practical; record reviewer or reason unavailable.
+- Relevant automated tests pass for behavior changes; record actual command/date/result.
+- Applicable manual workflow and important failure paths verified.
+- Requirements, diagrams and documentation updated with working links.
+- No known blocking defects; unresolved issues recorded honestly.
+- Bahara accepts the story at the real Sprint Review.
 
 Documentation-only tasks require source accuracy, readable Markdown, correct links and peer/product review as applicable; software tests apply only when relevant. Existing implementation alone does not satisfy assignment verification or Product Owner acceptance.
 
@@ -61,22 +65,31 @@ Documentation-only tasks require source accuracy, readable Markdown, correct lin
 4. Select feasible scope and task ownership.
 5. Confirm Definition of Done and evidence responsibilities.
 
-## Actual attendance
-
-TO BE COMPLETED AFTER MEETING
-
 ## Changes made during meeting
 
-TO BE COMPLETED AFTER MEETING
+The meeting retains all five proposed stories. It clarifies combined discovery filters and pagination, active public worker profiles, private-field exclusion, customer/worker registration, rejection of administrator-role injection, and own-profile editing. The existing application is the baseline for verification; no additional story or finalized capacity estimate is introduced.
 
 ## Final commitment
 
-TO BE COMPLETED AFTER MEETING
+The meeting planning outcome is to begin verification of US-01 through US-05 within the stated Sprint 1 goal. The 15-point total remains a proposal: the meeting does not establish individual availability or a final capacity-backed commitment. Bahara owns criteria and priorities, Sahar owns the Sprint Backlog and technical work, and Ahmad owns process records and progress tracking. Acceptance remains a separate evidence-based review decision on 2026-10-11.
 
 ## Meeting decisions
 
-TO BE COMPLETED AFTER MEETING
+- Begin with requirements-to-test mapping and normal browsing/account flows, then check invalid inputs and unauthorized requests.
+- Keep three points per story provisional until availability and initial findings establish feasibility. If scope must shrink, Bahara prioritizes core account access and discovery.
+- Require criterion-level evidence and important failure cases before acceptance; retain command, date, environment and result together.
+- Sahar compares use-case actors and sequence behavior with the source; Ahmad links observations to stories and remaining work.
 
-## Actual minutes
+### Assigned Actions
 
-TO BE COMPLETED AFTER MEETING
+| Owner | Assigned action | Planned checkpoint |
+| --- | --- | --- |
+| Bahara Noorzai | Review story wording and resolve ambiguities in discovery, registration and account permissions. | Start 2026-10-06; follow up through the sprint |
+| Sahar Haidary | Map public-website, authorization and authentication tests to the five stories; start public browsing and account setup. | Start 2026-10-06; follow up through the sprint |
+| Ahmad Khalid Safi | Maintain the schedule, meeting records, story references and burndown. | Start 2026-10-06; follow up through the sprint |
+| Sahar Haidary; Bahara Noorzai; Ahmad Khalid Safi | Technical diagram comparison, business-rule review and traceability check, respectively. | 2026-10-10 |
+| Bahara Noorzai; Sahar Haidary; Ahmad Khalid Safi | Acceptance decisions, technical walkthrough and minutes, respectively. | 2026-10-11 |
+
+## Meeting Summary from the meeting
+
+Ahmad opened with the October 11 goal and the existing marketplace baseline. Bahara described visitor, customer and worker needs and the evidence required for acceptance. Sahar outlined normal-flow, invalid-input and authorization checks, plus the UML comparison. The group retained the 15-point proposal as provisional, assigned product, technical and process responsibilities, and placed review preparation on October 10.

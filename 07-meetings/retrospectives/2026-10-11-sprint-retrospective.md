@@ -22,14 +22,6 @@ Recording Link: No recording URL is supplied by the source script; this record h
 6. Was the Sprint Goal realistic?
 7. What should change next Sprint? (Sprint 4: future work / final preparation.)
 
-## Participation in the Script
-
-- Ahmad Khalid Safi (Scrum Master and facilitator)
-- Bahara Noorzai (Product Owner)
-- Sahar Haidary (Developer)
-
-All three members have speaking parts in the source script. This records scripted participation; actual attendance is not established by that source.
-
 ## Keep Doing
 
 - Trace requirements, backlog items and evidence with story IDs.

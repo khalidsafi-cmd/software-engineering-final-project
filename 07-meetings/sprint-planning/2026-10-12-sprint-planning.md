@@ -65,14 +65,6 @@ Documentation-only tasks require source accuracy, readable Markdown, correct lin
 4. Select feasible scope and task ownership.
 5. Confirm Definition of Done and evidence responsibilities.
 
-## Participation in the Script
-
-- Ahmad Khalid Safi (Scrum Master and facilitator)
-- Bahara Noorzai (Product Owner)
-- Sahar Haidary (Developer)
-
-All three members have speaking parts in the source script. This records scripted participation; actual attendance is not established by that source.
-
 ## Changes made during meeting
 
 The script retains posting, open-job management, applications, private application tracking and worker selection. It explicitly includes optional budget, protected ownership/status fields, duplicate applications, forged worker filters, cross-job selection, repeated selection and rollback. US-10 retains five proposed points because of its coupled state changes. Earlier account work remains identified separately; the script does not add it to a final commitment.
