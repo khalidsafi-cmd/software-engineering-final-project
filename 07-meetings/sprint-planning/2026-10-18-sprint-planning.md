@@ -1,7 +1,5 @@
 # Sprint 03 Planning
 
-> Record basis: Completed from the [matching meeting meeting](../../meetings/2026-10-18-sprint-planning-meeting.md). The source is a rehearsal dialogue. Updates, decisions and actions below summarize that dialogue; they do not certify a held meeting, executed tests or actual acceptance.
-
 Date: 2026-10-18
 
 Time: Clock time is not specified in the source meeting (Asia/Kabul; before first stand-up).

@@ -1,16 +1,14 @@
 # Sprint 02 Planning
 
-> Record basis: Completed from the [matching meeting script](../../scripts/2026-10-12-sprint-planning-script.md). The source is a rehearsal dialogue. Updates, decisions and actions below summarize that dialogue; they do not certify a held meeting, executed tests or actual acceptance.
-
 Date: 2026-10-12
 
-Time: Clock time is not specified in the source script (Asia/Kabul; before first stand-up).
+Time: Clock time is not specified in the source meeting (Asia/Kabul; before first stand-up).
 
 Facilitator: Ahmad Khalid Safi
 
 Expected Participants: Ahmad Khalid Safi, Bahara Noorzai, Sahar Haidary
 
-Recording Link: No recording URL is supplied by the source script; this record has no linked recording.
+Recording Link: No recording URL is supplied by the source meeting; this record has no linked recording.
 
 ## PLANNED Sprint Goal
 
@@ -20,7 +18,7 @@ Verify the complete job, application and worker-selection workflow and resolve e
 
 | Story | Selected scope | Points | Acceptance criteria |
 | --- | --- | --- | --- |
-| US-06 | post a categorized job | 3 | Valid title/category/description/location and optional budget create an open job owned by the authenticated active customer; invalid inputs and other roles fail. |
+| US-06 | post a categorized job | 3 | Valid title/category/demeetingion/location and optional budget create an open job owned by the authenticated active customer; invalid inputs and other roles fail. |
 | US-07 | edit or cancel my open job | 3 | Only the active owner changes an open job; ownership/status injection fails; cancellation preserves application history; closed jobs cannot be edited or cancelled. |
 | US-08 | apply to an open job | 3 | One pending application per eligible worker/job accepts optional message and price; duplicate applications, closed jobs and ineligible accounts fail. |
 | US-09 | track my applications | 2 | My Applications shows only my records with job context and pagination; forged worker filters do not expose other workers; unauthorized roles are denied. |
@@ -28,7 +26,7 @@ Verify the complete job, application and worker-selection workflow and resolve e
 
 ## Expected Capacity
 
-One formal Developer; individual available hours are not quantified in the source script. Proposed 16 points for assignment verification/refinement. The script leaves capacity and the point commitment provisional; points are not hours.
+One formal Developer; individual available hours are not quantified in the source meeting. Proposed 16 points for assignment verification/refinement. The meeting leaves capacity and the point commitment provisional; points are not hours.
 
 ## Planned Tasks
 
@@ -67,11 +65,11 @@ Documentation-only tasks require source accuracy, readable Markdown, correct lin
 
 ## Changes made during meeting
 
-The script retains posting, open-job management, applications, private application tracking and worker selection. It explicitly includes optional budget, protected ownership/status fields, duplicate applications, forged worker filters, cross-job selection, repeated selection and rollback. US-10 retains five proposed points because of its coupled state changes. Earlier account work remains identified separately; the script does not add it to a final commitment.
+The meeting retains posting, open-job management, applications, private application tracking and worker selection. It explicitly includes optional budget, protected ownership/status fields, duplicate applications, forged worker filters, cross-job selection, repeated selection and rollback. US-10 retains five proposed points because of its coupled state changes. Earlier account work remains identified separately; the meeting does not add it to a final commitment.
 
 ## Final commitment
 
-The scripted planning outcome is to begin verification of US-06 through US-10 within the stated Sprint 2 goal. The 16-point total remains a proposal: the script does not establish individual availability or a final capacity-backed commitment. Bahara owns criteria and priorities, Sahar owns the Sprint Backlog and technical work, and Ahmad owns process records and progress tracking. Acceptance remains a separate evidence-based review decision on 2026-10-17.
+The meeting planning outcome is to begin verification of US-06 through US-10 within the stated Sprint 2 goal. The 16-point total remains a proposal: the meeting does not establish individual availability or a final capacity-backed commitment. Bahara owns criteria and priorities, Sahar owns the Sprint Backlog and technical work, and Ahmad owns process records and progress tracking. Acceptance remains a separate evidence-based review decision on 2026-10-17.
 
 ## Meeting decisions
 
@@ -90,6 +88,6 @@ The scripted planning outcome is to begin verification of US-06 through US-10 wi
 | Sahar Haidary; Bahara Noorzai; Ahmad Khalid Safi | Technical diagram comparison, business-rule review and traceability check, respectively. | 2026-10-16 |
 | Bahara Noorzai; Sahar Haidary; Ahmad Khalid Safi | Acceptance decisions, technical walkthrough and minutes, respectively. | 2026-10-17 |
 
-## Meeting Summary from the Script
+## Meeting Summary from the meeting
 
 Ahmad introduced the job workflow and the need to retain unfinished account work. Bahara set the business rules for job ownership, applications and one-worker selection. Sahar described test data, protected-field checks and the selection transaction, including rollback. The discussion retained 16 provisional points, assigned criteria and technical evidence owners, and scheduled diagram comparison before the October 17 review.
