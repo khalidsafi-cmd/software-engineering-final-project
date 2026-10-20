@@ -1,16 +1,16 @@
 # Sprint 01 Review Meeting
 
-> Record basis: Completed from the [matching meeting script](../../scripts/2026-10-11-sprint-review-script.md). The source is a rehearsal dialogue. Updates, decisions and actions below summarize that dialogue; they do not certify a held meeting, executed tests or actual acceptance.
+> Record basis: Completed from the [matching meeting meeting](../../meetings/2026-10-11-sprint-review-meeting.md). The source is a rehearsal dialogue. Updates, decisions and actions below summarize that dialogue; they do not certify a held meeting, executed tests or actual acceptance.
 
 Date: 2026-10-11
 
-Time: Clock time is not specified in the source script (Asia/Kabul; after daily stand-up, before retrospective).
+Time: Clock time is not specified in the source meeting (Asia/Kabul; after daily stand-up, before retrospective).
 
 Facilitator: Ahmad Khalid Safi
 
 Expected Participants: Ahmad Khalid Safi, Bahara Noorzai, Sahar Haidary
 
-Recording URL: No recording URL is supplied by the source script; this record has no linked recording.
+Recording URL: No recording URL is supplied by the source meeting; this record has no linked recording.
 
 ## Purpose / PLANNED Sprint Goal
 
@@ -44,19 +44,19 @@ Inspect verified work against the goal: Verify requirements, architecture, publi
 
 ## Product Owner Responses
 
-- **Criteria satisfied:** The script does not establish that all criteria passed; acceptance remains pending.
+- **Criteria satisfied:** The meeting does not establish that all criteria passed; acceptance remains pending.
 - **Gaps preventing acceptance:** Dated, story-specific verification results are absent; the acceptance table identifies the checks required.
 - **Priority for remaining work:** Compare remaining discovery/account work with Sprint 2 job-workflow priorities and record the reason for carry-over in the Product Backlog.
 
 ## Completed Stories and Evidence Status
 
-No story is established as verified and complete by the source script. US-01 through US-05 are covered in the technical walkthrough, but implementation and test presence do not supply dated execution evidence or satisfy acceptance. This is an explicit outcome for all five stories, not an unfilled completion field.
+No story is established as verified and complete by the source meeting. US-01 through US-05 are covered in the technical walkthrough, but implementation and test presence do not supply dated execution evidence or satisfy acceptance. This is an explicit outcome for all five stories, not an unfilled completion field.
 
 ## Product Owner acceptance
 
-In the scripted review, Bahara keeps US-01 through US-05 pending verification. No story is recorded as accepted.
+In the meeting review, Bahara keeps US-01 through US-05 pending verification. No story is recorded as accepted.
 
-| Story | Scripted acceptance outcome | Evidence required for a decision |
+| Story | meeting acceptance outcome | Evidence required for a decision |
 | --- | --- | --- |
 | US-01 | Pending verification | Combined job filters, retained pagination, empty/missing results and open jobs from active customers. |
 | US-02 | Pending verification | Active-worker discovery, combined filters, visible-review averages and exclusion of private account data. |
@@ -66,13 +66,13 @@ In the scripted review, Bahara keeps US-01 through US-05 pending verification. N
 
 ## Rejected/incomplete work
 
-All five stories retain incomplete verification as described above. The script supplies no confirmed defect-based rejection and no passing result. Sahar owns the remaining checks and separates unavailable setup, unexecuted verification and confirmed defects. Compare remaining discovery/account work with Sprint 2 job-workflow priorities and record the reason for carry-over in the Product Backlog.
+All five stories retain incomplete verification as described above. The meeting supplies no confirmed defect-based rejection and no passing result. Sahar owns the remaining checks and separates unavailable setup, unexecuted verification and confirmed defects. Compare remaining discovery/account work with Sprint 2 job-workflow priorities and record the reason for carry-over in the Product Backlog.
 
 ## Feedback
 
 Bahara requires separate evidence for each discovery and account story. A successful login does not establish reset-token, verification-email or profile-field behavior. Public browsing remains available without login, while private data and protected roles remain restricted. Sahar distinguishes missing checks from confirmed defects so each item has the correct next step.
 
-## Decisions from the Script
+## Decisions from the meeting
 
 - Retain pending acceptance until criterion-level evidence supports a Product Owner decision.
 - Compare remaining discovery/account work with Sprint 2 job-workflow priorities and record the reason for carry-over in the Product Backlog.
@@ -84,7 +84,7 @@ Bahara requires separate evidence for each discovery and account story. A succes
 | Bahara Noorzai | Maintain acceptance outcomes and order carry-over against product priorities. | 2026-10-12 next-sprint planning |
 | Ahmad Khalid Safi | Link minutes, outcome records and available recording evidence; reconcile remaining work with progress notes. | 2026-10-11 close-out and 2026-10-12 next-sprint planning |
 
-## Meeting Summary from the Script
+## Meeting Summary from the meeting
 
 Ahmad framed the review around five discovery/account stories. Sahar stated that implementation and tests exist but dated execution results are absent from the prepared records. Bahara walked through the criteria, including invalid inputs and authorization, and explicitly kept US-01 through US-05 pending verification. Ahmad assigned evidence to Sahar, acceptance outcomes to Bahara and linked minutes to himself, with retrospective follow-up on traceability.
 
