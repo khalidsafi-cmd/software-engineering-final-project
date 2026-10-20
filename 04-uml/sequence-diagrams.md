@@ -16,15 +16,15 @@ sequenceDiagram
     Controller->>Controller: Validate StoreJobRequest and active customer
     alt Authorized and valid
         Controller->>Action: handle(user, validated input / bound models)
-        Action->>Action: Authorize create; persist owned open job
-        Action->>DB: INSERT jobs; authenticated customer_id
+        Action->>Action: Authorize create#59; persist owned open job
+        Action->>DB: INSERT jobs#59; authenticated customer_id
         DB-->>Action: Persisted state
         Action-->>Controller: Success / transaction commit
         Controller-->>UI: Redirect to My Jobs
         UI-->>User: Updated page / feedback
     else Invalid or unauthorized
         Controller-->>UI: Validation errors / forbidden response
-        UI-->>User: Error feedback; no successful write
+        UI-->>User: Error feedback#59; no successful write
     end
 ```
 
@@ -44,7 +44,7 @@ sequenceDiagram
     Controller->>Controller: Validate StoreApplicationRequest and active worker
     alt Authorized and valid
         Controller->>Action: handle(user, validated input / bound models)
-        Action->>Action: Transaction; lock job; authorize; reject duplicate
+        Action->>Action: Transaction#59; lock job#59; authorize#59; reject duplicate
         Action->>DB: INSERT pending application
         DB-->>Action: Persisted state
         Action-->>Controller: Success / transaction commit
@@ -52,7 +52,7 @@ sequenceDiagram
         UI-->>User: Updated page / feedback
     else Invalid or unauthorized
         Controller-->>UI: Validation errors / forbidden response
-        UI-->>User: Error feedback; no successful write
+        UI-->>User: Error feedback#59; no successful write
     end
 ```
 
@@ -69,20 +69,20 @@ sequenceDiagram
     participant DB as Database
     User->>UI: Submit workflow form
     UI->>Controller: POST /my-jobs/{job}/applications/{application}/accept
-    Controller->>Controller: Scoped job/application binding; active customer
+    Controller->>Controller: Scoped job/application binding#59; active customer
     alt Authorized and valid
         Controller->>Action: handle(user, validated input / bound models)
-        Action->>Action: Transaction; authorize owner; check pending eligible worker
-        Action->>DB: Accept selected; reject other pending; assign job
+        Action->>Action: Transaction#59; authorize owner#59; check pending eligible worker
+        Action->>DB: Accept selected#59; reject other pending#59; assign job
         DB-->>Action: Persisted state
-    Action->>Action: EnsureJobConversation (within transaction)
-    Action->>DB: First-or-create selected job conversation
+        Action->>Action: EnsureJobConversation (within transaction)
+        Action->>DB: First-or-create selected job conversation
         Action-->>Controller: Success / transaction commit
         Controller-->>UI: Redirect to applicants
         UI-->>User: Updated page / feedback
     else Invalid or unauthorized
         Controller-->>UI: Validation errors / forbidden response
-        UI-->>User: Error feedback; no successful write
+        UI-->>User: Error feedback#59; no successful write
     end
 ```
 
@@ -99,18 +99,18 @@ sequenceDiagram
     participant DB as Database
     User->>UI: Submit workflow form
     UI->>Controller: POST /messages/{conversation}
-    Controller->>Controller: Validate StoreMessageRequest; auth/active; throttle
+    Controller->>Controller: Validate StoreMessageRequest#59; auth/active#59; throttle
     alt Authorized and valid
         Controller->>Action: handle(user, validated input / bound models)
-        Action->>Action: Lock participants; authorize participant and block/status checks
-        Action->>DB: INSERT message; touch conversation
+        Action->>Action: Lock participants#59; authorize participant and block/status checks
+        Action->>DB: INSERT message#59; touch conversation
         DB-->>Action: Persisted state
         Action-->>Controller: Success / transaction commit
         Controller-->>UI: Redirect to conversation
         UI-->>User: Updated page / feedback
     else Invalid or unauthorized
         Controller-->>UI: Validation errors / forbidden response
-        UI-->>User: Error feedback; no successful write
+        UI-->>User: Error feedback#59; no successful write
     end
 ```
 
@@ -130,24 +130,24 @@ sequenceDiagram
     User->>UI: Mark assigned job completed
     UI->>CompleteController: POST /jobs/{job}/complete
     CompleteController->>CompleteAction: handle(customer, job)
-    CompleteAction->>DB: Transaction; lock job
-    CompleteAction->>CompleteAction: Authorize active owner; assigned and selected
+    CompleteAction->>DB: Transaction#59; lock job
+    CompleteAction->>CompleteAction: Authorize active owner#59; assigned and selected
     alt Completion allowed
-        CompleteAction->>DB: UPDATE job status completed; commit
+        CompleteAction->>DB: UPDATE job status completed#59; commit
         CompleteAction-->>CompleteController: Success
         CompleteController-->>UI: Back redirect with feedback
         User->>UI: Submit counterpart rating and optional comment
         UI->>ReviewController: POST /jobs/{job}/reviews
         ReviewController->>ReviewController: StoreReviewRequest authorization and rating 1–5 validation
         ReviewController->>ReviewAction: handle(user, job, validated data)
-        ReviewAction->>DB: Transaction; lock completed job
-        ReviewAction->>ReviewAction: Authorize participant; reject duplicate; choose counterpart
-        ReviewAction->>DB: INSERT review; commit
+        ReviewAction->>DB: Transaction#59; lock completed job
+        ReviewAction->>ReviewAction: Authorize participant#59; reject duplicate#59; choose counterpart
+        ReviewAction->>DB: INSERT review#59; commit
         ReviewAction-->>ReviewController: Review created
         ReviewController-->>UI: Back redirect with feedback
         UI-->>User: Updated review state
     else Completion denied
-        CompleteAction-->>CompleteController: Authorization failure; rollback
+        CompleteAction-->>CompleteController: Authorization failure#59; rollback
         CompleteController-->>UI: Forbidden response
     end
 ```
