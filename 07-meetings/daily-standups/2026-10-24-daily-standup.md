@@ -1,7 +1,5 @@
 # Daily Stand-up
 
-> Record basis: Completed from the [matching meeting script](../../scripts/2026-10-24-daily-standup-script.md). The source is a rehearsal dialogue. Updates, decisions and actions below summarize that dialogue; they do not certify a held meeting, executed tests or actual acceptance.
-
 Date: 2026-10-24
 
 Time: Clock time is not specified in the source script (Asia/Kabul; after Sprint Planning).
@@ -18,7 +16,7 @@ Expected Participants:
 
 ## Recording Link
 
-No recording URL is supplied by the source script; this record has no linked recording.
+
 
 ## Agenda
 
