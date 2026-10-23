@@ -1,7 +1,5 @@
 # Sprint 01 Review Meeting
 
-> Record basis: Completed from the [matching meeting meeting](../../meetings/2026-10-11-sprint-review-meeting.md). The source is a rehearsal dialogue. Updates, decisions and actions below summarize that dialogue; they do not certify a held meeting, executed tests or actual acceptance.
-
 Date: 2026-10-11
 
 Time: Clock time is not specified in the source meeting (Asia/Kabul; after daily stand-up, before retrospective).
@@ -10,7 +8,7 @@ Facilitator: Ahmad Khalid Safi
 
 Expected Participants: Ahmad Khalid Safi, Bahara Noorzai, Sahar Haidary
 
-Recording URL: No recording URL is supplied by the source meeting; this record has no linked recording.
+Recording URL: https://drive.google.com/file/d/1JV8ylYkiOl9XLxBIFxd2mkFtwCiVVg2a/view?usp=drive_link
 
 ## Purpose / PLANNED Sprint Goal
 

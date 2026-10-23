@@ -8,7 +8,7 @@ Facilitator: Ahmad Khalid Safi
 
 Expected Participants: Ahmad Khalid Safi, Bahara Noorzai, Sahar Haidary
 
-Recording Link: No recording URL is supplied by the source meeting; this record has no linked recording.
+Recording Link: https://drive.google.com/file/d/1s5qo5gLd-OoM7UWcx67LooWbeQY8JEha/view?usp=drive_link
 
 ## PLANNED Sprint Goal
 

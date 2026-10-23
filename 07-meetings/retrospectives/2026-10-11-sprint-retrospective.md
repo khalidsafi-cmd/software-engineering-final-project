@@ -8,7 +8,7 @@ Facilitator: Ahmad Khalid Safi
 
 Expected Participants: Ahmad Khalid Safi, Bahara Noorzai, Sahar Haidary
 
-Recording Link: No recording URL is supplied by the source script; this record has no linked recording.
+Recording Link: https://drive.google.com/file/d/1K2SMh4z0ngPiFmzNXU_c5Eyu9SL0q43w/view?usp=drive_link
 
 ## PLANNED Agenda
 

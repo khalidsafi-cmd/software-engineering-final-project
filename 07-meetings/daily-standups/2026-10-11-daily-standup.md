@@ -18,7 +18,7 @@ Expected Participants:
 
 ## Recording Link
 
-
+https://drive.google.com/file/d/1NIOVVrPj2lzKpmN_gVt8xikyPMue-U1k/view?usp=drive_link
 
 ## Agenda
 
