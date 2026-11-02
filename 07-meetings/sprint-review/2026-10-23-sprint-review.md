@@ -10,7 +10,7 @@ Expected Participants: Ahmad Khalid Safi, Bahara Noorzai, Sahar Haidary
 
 Recording URL: 
 
-## Purpose / PLANNED Sprint Goal
+https://drive.google.com/file/d/1K8r1imkHpvgC9fetpACaLHvT9svTxFCF/view?usp=drive_link
 
 Inspect verified work against the goal: Verify private communication, completion, reviews and trust controls with security checks.
 

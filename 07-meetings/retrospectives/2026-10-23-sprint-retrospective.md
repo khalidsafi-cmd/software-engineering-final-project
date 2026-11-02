@@ -8,7 +8,7 @@ Facilitator: Ahmad Khalid Safi
 
 Expected Participants: Ahmad Khalid Safi, Bahara Noorzai, Sahar Haidary
 
-Recording Link: 
+Recording Link: https://drive.google.com/file/d/1K8r1imkHpvgC9fetpACaLHvT9svTxFCF/view?usp=drive_link
 
 ## PLANNED Agenda
 
