@@ -15,7 +15,7 @@ Expected Participants:
 
 ## Recording Link
 
-No recording URL is supplied by the source script; this record has no linked recording.
+https://drive.google.com/file/d/1BWCOvqDKpARMVc0J2l2X4jMu1CYOwFEe/view?usp=drive_link
 
 ## Agenda
 
