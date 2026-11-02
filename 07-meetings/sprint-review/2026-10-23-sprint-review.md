@@ -2,8 +2,6 @@
 
 Date: 2026-10-23
 
-Time: Clock time is not specified in the source script (Asia/Kabul; after daily stand-up, before retrospective).
-
 Facilitator: Ahmad Khalid Safi
 
 Expected Participants: Ahmad Khalid Safi, Bahara Noorzai, Sahar Haidary
