@@ -4,8 +4,6 @@ Project: **Ustaad.af - Digital Marketplace for Skilled Workers**
 
 Dates: **October 18-23, 2026** (6 scheduled calendar workdays)
 
-Reconciled: **November 3, 2026**. Progress-record owner: **Ahmad Khalid Safi**.
-
 Sprint goal: Verify private communication, completion, reviews and trust controls with security checks.
 
 ## Baseline and evidence basis
