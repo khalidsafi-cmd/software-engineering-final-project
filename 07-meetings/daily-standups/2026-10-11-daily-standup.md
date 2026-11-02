@@ -24,22 +24,6 @@ https://drive.google.com/file/d/1NIOVVrPj2lzKpmN_gVt8xikyPMue-U1k/view?usp=drive
 4. Is Sprint Backlog progress on schedule?
 5. Are any backlog adjustments required?
 
-## Planned Sprint Context
-
-Sprint 01 Goal: Verify requirements, architecture, public discovery, authentication and worker profiles; establish Scrum documentation.
-
-Expected focus for this date (PLANNED): Consolidate evidence and prepare review/retrospective. Stories: US-01, US-02, US-03, US-04, US-05. Bahara checks product criteria/priorities; Ahmad facilitates and maintains truthful evidence; Sahar leads technical checks. These are intentions, not actual updates.
-
-[Sprint tasks](../../06-sprints/sprint-01/tasks.md)
-
-## Participation in the Script
-
-- Ahmad Khalid Safi (Scrum Master and facilitator)
-- Bahara Noorzai (Product Owner)
-- Sahar Haidary (Developer)
-
-All three members have speaking parts in the source script. This records scripted participation; actual attendance is not established by that source.
-
 ## Ahmad Khalid Safi Update
 
 Yesterday / Since Last Meeting:

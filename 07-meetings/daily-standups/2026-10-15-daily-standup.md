@@ -32,13 +32,6 @@ Expected focus for this date (PLANNED): Investigate evidenced defects and update
 
 [Sprint tasks](../../06-sprints/sprint-02/tasks.md)
 
-## Participation in the Script
-
-- Ahmad Khalid Safi (Scrum Master and facilitator)
-- Bahara Noorzai (Product Owner)
-- Sahar Haidary (Developer)
-
-All three members have speaking parts in the source script. This records scripted participation; actual attendance is not established by that source.
 
 ## Ahmad Khalid Safi Update
 

@@ -2,8 +2,6 @@
 
 Date: 2026-10-24
 
-Time: Clock time is not specified in the source script (Asia/Kabul; after Sprint Planning).
-
 Meeting Type: Daily Stand-up
 
 Facilitator: Ahmad Khalid Safi
@@ -33,14 +31,6 @@ Sprint 04 Goal: Verify administration, integrate workflows, refine UX, finalize 
 Expected focus for this date (PLANNED): Confirm criteria, baseline and task availability. Stories: US-16, US-17, US-18, US-19, US-20. Bahara checks product criteria/priorities; Ahmad facilitates and maintains truthful evidence; Sahar leads technical checks. These are intentions, not actual updates.
 
 [Sprint tasks](../../06-sprints/sprint-04/tasks.md)
-
-## Participation in the Script
-
-- Ahmad Khalid Safi (Scrum Master and facilitator)
-- Bahara Noorzai (Product Owner)
-- Sahar Haidary (Developer)
-
-All three members have speaking parts in the source script. This records scripted participation; actual attendance is not established by that source.
 
 ## Ahmad Khalid Safi Update
 

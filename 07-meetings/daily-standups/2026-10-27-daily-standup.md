@@ -14,7 +14,7 @@ Expected Participants:
 
 ## Recording Link
 
-[Link](../../../ustaad.af_capstone_project/software-engineering/07-meetings/daily-standups/2026-10-27-daily-standup.md)
+https://drive.google.com/file/d/1xLYVj5VtxRk34aWbyz76PsNl033em6GF/view?usp=drive_link
 
 ## Agenda
 
@@ -31,14 +31,6 @@ Sprint 04 Goal: Verify administration, integrate workflows, refine UX, finalize 
 Expected focus for this date (PLANNED): Investigate evidenced defects and update remaining effort. Stories: US-16, US-17, US-18, US-19, US-20. Bahara checks product criteria/priorities; Ahmad facilitates and maintains truthful evidence; Sahar leads technical checks. These are intentions, not actual updates.
 
 [Sprint tasks](../../06-sprints/sprint-04/tasks.md)
-
-## Participation in the Script
-
-- Ahmad Khalid Safi (Scrum Master and facilitator)
-- Bahara Noorzai (Product Owner)
-- Sahar Haidary (Developer)
-
-All three members have speaking parts in the source script. This records scripted participation; actual attendance is not established by that source.
 
 ## Ahmad Khalid Safi Update
 

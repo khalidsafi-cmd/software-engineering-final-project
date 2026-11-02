@@ -23,15 +23,6 @@ https://drive.google.com/file/d/1H-fTOz8yFnp6L-5fBKL8TZp-l2uKAMv8/view?usp=drive
 3. Are there any blockers?
 4. Is Sprint Backlog progress on schedule?
 5. Are any backlog adjustments required?
-
-## Planned Sprint Context
-
-Sprint 02 Goal: Verify the complete job, application and worker-selection workflow and resolve evidenced defects.
-
-Expected focus for this date (PLANNED): Confirm criteria, baseline and task availability. Stories: US-06, US-07, US-08, US-09, US-10. Bahara checks product criteria/priorities; Ahmad facilitates and maintains truthful evidence; Sahar leads technical checks. These are intentions, not actual updates.
-
-[Sprint tasks](../../06-sprints/sprint-02/tasks.md)
-
 ## Participation in the Script
 
 - Ahmad Khalid Safi (Scrum Master and facilitator)
