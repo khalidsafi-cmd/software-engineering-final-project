@@ -2,8 +2,6 @@
 
 Date: 2026-10-06
 
-Time: Clock time is not specified in the source meeting (Asia/Kabul; before first stand-up).
-
 Facilitator: Ahmad Khalid Safi
 
 Expected Participants: Ahmad Khalid Safi, Bahara Noorzai, Sahar Haidary

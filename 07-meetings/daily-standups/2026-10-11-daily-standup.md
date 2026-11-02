@@ -2,8 +2,6 @@
 
 Date: 2026-10-11
 
-Time: Clock time is not specified in the source script (Asia/Kabul; before Sprint Review).
-
 Meeting Type: Daily Stand-up
 
 Facilitator: Ahmad Khalid Safi

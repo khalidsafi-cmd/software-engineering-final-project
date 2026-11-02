@@ -2,8 +2,6 @@
 
 Date: 2026-10-22
 
-Time: Clock time is not specified in the source script (Asia/Kabul; daily stand-up).
-
 Meeting Type: Daily Stand-up
 
 Facilitator: Ahmad Khalid Safi
