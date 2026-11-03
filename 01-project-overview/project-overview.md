@@ -26,11 +26,7 @@ A verified integrated workflow, traceable requirements, UML models, four sprint 
 
 ## Technology stack
 
-- Laravel **12.69.2** and Inertia Laravel adapter **2.0.26**, confirmed by `composer show --direct` and [composer.lock](../../composer.lock).
-- Vue **3** (`^3.5.13`), Inertia Vue **2** (`^2.0.0-beta.3` declared range), TypeScript and Vite **6** (`^6.0.3`), evidenced by [package.json](../../package.json); declared ranges are not exact installed versions.
-- SQLite is the default in [database configuration](../../config/database.php) and in-memory SQLite is configured for tests in [phpunit.xml](../../phpunit.xml). MySQL is supported by configuration; production database choice is unverified.
+- Laravel **12.69.2** and Inertia Laravel adapter **2.0.26**
+- Vue **3** (`^3.5.13`), Inertia Vue **2** (`^2.0.0-beta.3` declared range), TypeScript and Vite **6** (`^6.0.3`).
+- SQLite is the default in MySQL is supported by configuration; production database choice is unverified.
 - Eloquent models/policies, Form Requests, controllers and Action classes implement workflows. Pest 3 tests exist; their current results are not claimed here.
-
-## Inspection evidence
-
-Snapshot: October 6, 2026, HEAD `405b1da` (contact functionality, October 1). [Routes](../../routes/web.php), [settings routes](../../routes/settings.php), [auth routes](../../routes/auth.php), [Actions](../../app/Actions), [models](../../app/Models), [Vue pages](../../resources/js/pages) and [tests](../../tests/Feature) establish the baseline. September marketplace commits predate these sprints. Git history is unchanged.
