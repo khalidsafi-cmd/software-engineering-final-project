@@ -28,7 +28,7 @@ sequenceDiagram
     end
 ```
 
-Action-level state or authorization failures also abort/roll back and return an error. Evidence: [CustomerJobController](../../app/Http/Controllers/CustomerJobController.php), [CreateJob](../../app/Actions/CreateJob.php).
+Action-level state or authorization failures also abort/roll back and return an error. 
 
 ## Worker applies for a job
 
@@ -56,7 +56,7 @@ sequenceDiagram
     end
 ```
 
-Action-level state or authorization failures also abort/roll back and return an error. Evidence: [JobApplicationController](../../app/Http/Controllers/JobApplicationController.php), [ApplyToJob](../../app/Actions/ApplyToJob.php).
+Action-level state or authorization failures also abort/roll back and return an error. 
 
 ## Customer selects a worker
 
@@ -86,7 +86,7 @@ sequenceDiagram
     end
 ```
 
-Action-level state or authorization failures also abort/roll back and return an error. Evidence: [JobApplicationController](../../app/Http/Controllers/JobApplicationController.php), [AcceptApplication](../../app/Actions/AcceptApplication.php).
+Action-level state or authorization failures also abort/roll back and return an error. 
 
 ## Customer and worker send messages
 
@@ -114,7 +114,7 @@ sequenceDiagram
     end
 ```
 
-Action-level state or authorization failures also abort/roll back and return an error. Evidence: [ConversationController](../../app/Http/Controllers/ConversationController.php), [SendMessage](../../app/Actions/SendMessage.php).
+Action-level state or authorization failures also abort/roll back and return an error. 
 
 ## Customer completes job and participant reviews
 
@@ -152,4 +152,4 @@ sequenceDiagram
     end
 ```
 
-The selected worker may separately review the customer after completion; the worker cannot mark the job completed. Invalid ratings, nonparticipants, premature or duplicate reviews are rejected before persistence. Sources: [CompleteJob](../../app/Actions/CompleteJob.php), [CreateReview](../../app/Actions/CreateReview.php), [StoreReviewRequest](../../app/Http/Requests/StoreReviewRequest.php). Controllers redirect; the updated Inertia page is loaded through the ensuing request.
+The selected worker may separately review the customer after completion; the worker cannot mark the job completed. Invalid ratings, nonparticipants, premature or duplicate reviews are rejected before persistence.
