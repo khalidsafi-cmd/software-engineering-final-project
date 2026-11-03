@@ -14,8 +14,4 @@ Planning proposes a goal, ordered stories, capacity and tasks; the real meeting 
 
 The plan treats all dates within sprint ranges as academic working days, including weekends: 25 daily stand-ups. This is a scheduling assumption to confirm, not attendance evidence. Planning precedes the first stand-up; final-day stand-up precedes review, followed by retrospective. Times remain to be confirmed in Asia/Kabul. Planning: proposed 45 minutes; daily: 15 minutes; review: 45 minutes; retrospective: 30 minutes. Capacity is not derived from these ceremony durations.
 
-Bahara represents product needs and orders/accepts work. Ahmad facilitates events, progress transparency and evidence collection. Sahar leads implementation, tests and modeling. All three collaborate where useful. See [responsibilities](../02-team/role-responsibilities.md).
-
-October 31 is repository review, documentation cleanup, evidence checking and submission preparation; it is outside Sprint 4. Final deadline: November 1, 2026 at 11:59 PM (schedule uses Asia/Kabul; confirm submission-system timezone). No extra meeting is scheduled for October 31.
-
-See the [complete event schedule](../07-meetings/meeting-schedule.md). Do not create retrospective evidence for a meeting that did not occur; explicitly record cancellation/rescheduling and preserve the original schedule.
+Bahara represents product needs and orders/accepts work. Ahmad facilitates events, progress transparency and evidence collection. Sahar leads implementation, tests and modeling. All three collaborate where useful.
