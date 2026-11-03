@@ -40,25 +40,25 @@ Sahar demonstrates behavior and failure modes; Ahmad maintains traceability and 
 
 | Functional Requirement | User Story | Sprint | Test / verification approach |
 | --- | --- | --- | --- |
-| FR-01 | US-01 | 1 | [tests/Feature/PublicWebsiteTest.php](../../tests/Feature/PublicWebsiteTest.php); demonstrate acceptance criteria and failure paths |
-| FR-02 | US-02 | 1 | [tests/Feature/PublicWebsiteTest.php](../../tests/Feature/PublicWebsiteTest.php); demonstrate acceptance criteria and failure paths |
-| FR-03 | US-03 | 1 | [tests/Feature/ProfileAuthorizationTest.php](../../tests/Feature/ProfileAuthorizationTest.php); demonstrate acceptance criteria and failure paths |
-| FR-04 | US-04 | 1 | [tests/Feature/Auth/AuthenticationTest.php](../../tests/Feature/Auth/AuthenticationTest.php); demonstrate acceptance criteria and failure paths |
-| FR-05 | US-05 | 1 | [tests/Feature/ProfileAuthorizationTest.php](../../tests/Feature/ProfileAuthorizationTest.php); demonstrate acceptance criteria and failure paths |
-| FR-06 | US-06 | 2 | [tests/Feature/JobMarketplaceTest.php](../../tests/Feature/JobMarketplaceTest.php); demonstrate acceptance criteria and failure paths |
-| FR-07 | US-07 | 2 | [tests/Feature/JobMarketplaceTest.php](../../tests/Feature/JobMarketplaceTest.php); demonstrate acceptance criteria and failure paths |
-| FR-08 | US-08 | 2 | [tests/Feature/JobMarketplaceTest.php](../../tests/Feature/JobMarketplaceTest.php); demonstrate acceptance criteria and failure paths |
-| FR-09 | US-09 | 2 | [tests/Feature/JobMarketplaceTest.php](../../tests/Feature/JobMarketplaceTest.php); demonstrate acceptance criteria and failure paths |
-| FR-10 | US-10 | 2 | [tests/Feature/JobMarketplaceTest.php](../../tests/Feature/JobMarketplaceTest.php); demonstrate acceptance criteria and failure paths |
-| FR-11 | US-11 | 3 | [tests/Feature/CommunicationTest.php](../../tests/Feature/CommunicationTest.php); demonstrate acceptance criteria and failure paths |
-| FR-12 | US-12 | 3 | [tests/Feature/CompletionReviewTest.php](../../tests/Feature/CompletionReviewTest.php); demonstrate acceptance criteria and failure paths |
-| FR-13 | US-13 | 3 | [tests/Feature/CompletionReviewTest.php](../../tests/Feature/CompletionReviewTest.php); demonstrate acceptance criteria and failure paths |
-| FR-14 | US-14 | 3 | [tests/Feature/ModerationTest.php](../../tests/Feature/ModerationTest.php); demonstrate acceptance criteria and failure paths |
-| FR-15 | US-15 | 3 | [tests/Feature/ModerationTest.php](../../tests/Feature/ModerationTest.php); demonstrate acceptance criteria and failure paths |
-| FR-16 | US-16 | 4 | [tests/Feature/ModerationTest.php](../../tests/Feature/ModerationTest.php); demonstrate acceptance criteria and failure paths |
-| FR-17 | US-17 | 4 | [tests/Feature/ModerationTest.php](../../tests/Feature/ModerationTest.php); demonstrate acceptance criteria and failure paths |
-| FR-18 | US-18 | 4 | [tests/Feature/ModerationTest.php](../../tests/Feature/ModerationTest.php); demonstrate acceptance criteria and failure paths |
-| FR-19 | US-19 | 4 | [tests/Feature/ModerationTest.php](../../tests/Feature/ModerationTest.php); demonstrate acceptance criteria and failure paths |
-| FR-20 | US-20 | 4 | [tests/Feature/ContactTest.php](../../tests/Feature/ContactTest.php); demonstrate acceptance criteria and failure paths |
+| FR-01 | US-01 | 1 | demonstrate acceptance criteria and failure paths |
+| FR-02 | US-02 | 1 | demonstrate acceptance criteria and failure paths |
+| FR-03 | US-03 | 1 | demonstrate acceptance criteria and failure paths |
+| FR-04 | US-04 | 1 | demonstrate acceptance criteria and failure paths |
+| FR-05 | US-05 | 1 | demonstrate acceptance criteria and failure paths |
+| FR-06 | US-06 | 2 | demonstrate acceptance criteria and failure paths |
+| FR-07 | US-07 | 2 | demonstrate acceptance criteria and failure paths |
+| FR-08 | US-08 | 2 | demonstrate acceptance criteria and failure paths |
+| FR-09 | US-09 | 2 | demonstrate acceptance criteria and failure paths |
+| FR-10 | US-10 | 2 | demonstrate acceptance criteria and failure paths |
+| FR-11 | US-11 | 3 | demonstrate acceptance criteria and failure paths |
+| FR-12 | US-12 | 3 | demonstrate acceptance criteria and failure paths |
+| FR-13 | US-13 | 3 | demonstrate acceptance criteria and failure paths |
+| FR-14 | US-14 | 3 | demonstrate acceptance criteria and failure paths |
+| FR-15 | US-15 | 3 | demonstrate acceptance criteria and failure paths |
+| FR-16 | US-16 | 4 | demonstrate acceptance criteria and failure paths |
+| FR-17 | US-17 | 4 | demonstrate acceptance criteria and failure paths |
+| FR-18 | US-18 | 4 | demonstrate acceptance criteria and failure paths |
+| FR-19 | US-19 | 4 | demonstrate acceptance criteria and failure paths |
+| FR-20 | US-20 | 4 | demonstrate acceptance criteria and failure paths |
 
 NFR verification is shared across all sprints; Sprint 4 consolidates evidence. Actual verification results: TO BE UPDATED DURING SPRINT.
